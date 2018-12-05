@@ -1,8 +1,0 @@
-baseURL = "https://two2cold.github.io/"
-languageCode = "en-us"
-title = "Yuchen Liu"
-theme = "hyde"
-
-[params]
-    description = "ADDRESS: 4065 Natural History Building 1301 W Green St EMAIL: liu305@illinois.edu"
-    themeColor = "theme-base-08" # for hyde theme
