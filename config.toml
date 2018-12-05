@@ -1,0 +1,7 @@
+baseURL = "https://two2cold.github.io/"
+languageCode = "en-us"
+title = "Yuchen Liu"
+theme = "hyde"
+
+[params]
+    description = "This is Yuchen Liu's personal website"
