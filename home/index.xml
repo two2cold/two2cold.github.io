@@ -31,9 +31,29 @@
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>https://two2cold.github.io/home/publications/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://two2cold.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codes</title>
+      <link>https://two2cold.github.io/home/teaching/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://two2cold.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
       <title>Skills</title>
       <link>https://two2cold.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
       
       <guid>https://two2cold.github.io/home/skills/</guid>
       <description></description>
@@ -58,15 +78,6 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://two2cold.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://two2cold.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Talks</title>
       <link>https://two2cold.github.io/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
@@ -87,7 +98,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://two2cold.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
       
       <guid>https://two2cold.github.io/home/posts/</guid>
       <description></description>
@@ -96,21 +107,10 @@
     <item>
       <title>Projects</title>
       <link>https://two2cold.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
       
       <guid>https://two2cold.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://two2cold.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://two2cold.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>
