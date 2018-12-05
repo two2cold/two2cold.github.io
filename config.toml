@@ -4,4 +4,5 @@ title = "Yuchen Liu"
 theme = "hyde"
 
 [params]
-    description = "This is Yuchen Liu's personal website"
+    description = "ADDRESS: 4065 Natural History Building 1301 W Green St EMAIL: liu305@illinois.edu"
+    themeColor = "theme-base-08" # for hyde theme
