@@ -27,27 +27,7 @@
       <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
       
       <guid>https://two2cold.github.io/home/about/</guid>
-      <description>Biography I am a Ph.D. student working with Dr. Jenny Druhan. My research interests include soil carbon cycling and reactive transport modeling. Right now, I am trying to couple soil hydrologic cycle with soil carbon cycle using a reactive transport framework.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://two2cold.github.io/home/publications/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://two2cold.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Codes</title>
-      <link>https://two2cold.github.io/home/teaching/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://two2cold.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>Hi, I&amp;rsquo;m Yuchen I am a 4th year Ph.D. student working with Dr. Jenny Druhan. My research interests include soil carbon cycling and reactive transport modeling. Right now, I am trying to couple soil hydrologic cycle with soil carbon cycle using a reactive transport framework (CrunchTope).</description>
     </item>
     
     <item>
@@ -57,6 +37,37 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>https://two2cold.github.io/home/skills/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Publications and conference abstracts</title>
+      <link>https://two2cold.github.io/home/publications/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://two2cold.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talks</title>
+      <link>https://two2cold.github.io/home/talks/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://two2cold.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attended workshops</title>
+      <link>https://two2cold.github.io/home/workshops/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://two2cold.github.io/home/workshops/</guid>
+      <description>Software Carpentry workshop Champaign, IL, USA 02/01/2018 - 02/01/2018
+ChemPlugin/Python workshop Champaign, IL, USA 03/27/2017 - 04/17/2017
+CrunchTope workshop Champaign, IL, USA 06/08/2016 - 06/09/2016
+Geochemist&amp;rsquo;s Workbench workshop Urbana, IL, USA 01/14/2016 - 01/15/2016
+Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI) workshop West Lafayette, IN, USA 10/20/2015 - 10/21/2015</description>
     </item>
     
     <item>
@@ -83,15 +94,6 @@ I am a teaching instructor for the following courses at University X:
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://two2cold.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://two2cold.github.io/home/talks/</guid>
       <description></description>
     </item>
     

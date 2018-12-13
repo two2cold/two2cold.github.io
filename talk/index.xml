@@ -13,14 +13,21 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>https://two2cold.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <title>A reactive transport model including soil carbon respiration</title>
+      <link>https://two2cold.github.io/talk/chinese-talk-/</link>
+      <pubDate>Sat, 01 Jul 2017 20:00:00 -0500</pubDate>
       
-      <guid>https://two2cold.github.io/talk/example/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <guid>https://two2cold.github.io/talk/chinese-talk-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A reactive transport model including soil carbon respiration</title>
+      <link>https://two2cold.github.io/talk/french-talk/</link>
+      <pubDate>Mon, 30 Jan 2017 15:00:00 -0600</pubDate>
+      
+      <guid>https://two2cold.github.io/talk/french-talk/</guid>
+      <description></description>
     </item>
     
   </channel>
