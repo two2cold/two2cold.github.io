@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yuchen Liu 2018</copyright>
-    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://two2cold.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://two2cold.github.io/home/hero_carousel/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,34 +24,34 @@
     <item>
       <title></title>
       <link>https://two2cold.github.io/home/about/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/about/</guid>
-      <description>Hi, I&amp;rsquo;m Yuchen I am a 4th year Ph.D. student working with Dr. Jenny Druhan. My research interests include soil carbon cycling and reactive transport modeling. Right now, I am trying to couple soil hydrologic cycle with soil carbon cycle using a reactive transport framework (CrunchTope).</description>
+      <description>Hi, I&amp;rsquo;m Yuchen I am a 5th year Ph.D. student working with Dr. Jenny Druhan. My research interests include soil carbon cycling and reactive transport modeling. At present my work involves coupling soil hydrologic and carbon cycles in soil through a reactive transport framework (CrunchFlow).</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>https://two2cold.github.io/home/skills/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications and conference abstracts</title>
-      <link>https://two2cold.github.io/home/publications/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      <title>Selected Publications</title>
+      <link>https://two2cold.github.io/home/publications_selected/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://two2cold.github.io/home/publications/</guid>
+      <guid>https://two2cold.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invited talks</title>
       <link>https://two2cold.github.io/home/talks/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/talks/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Attended workshops</title>
       <link>https://two2cold.github.io/home/workshops/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/workshops/</guid>
       <description>Software Carpentry workshop Champaign, IL, USA 02/01/2018 - 02/01/2018
@@ -80,11 +80,11 @@ Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAH
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://two2cold.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <title>Publications and conference abstracts</title>
+      <link>https://two2cold.github.io/home/publications/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://two2cold.github.io/home/publications_selected/</guid>
+      <guid>https://two2cold.github.io/home/publications/</guid>
       <description></description>
     </item>
     
@@ -100,7 +100,7 @@ Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAH
     <item>
       <title>Recent Posts</title>
       <link>https://two2cold.github.io/home/posts/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/posts/</guid>
       <description></description>
@@ -127,7 +127,7 @@ Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAH
     <item>
       <title>Contact</title>
       <link>https://two2cold.github.io/home/contact/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>https://two2cold.github.io/home/contact/</guid>
       <description></description>

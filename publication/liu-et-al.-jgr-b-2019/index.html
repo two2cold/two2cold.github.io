@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Speleothem carbonates are precipitated continuously from inorganic carbon dissolved in seepage water infiltrating from the land surface, that reflects a mixture of atmospheric CO2, respired soil carbon, and epikarst sources, each with distinct δ13C values. To aid in deconvolving these signatures, soil samples were collected above the Blue Spring cave system in Sparta, Tennessee, USA and subjected to a series of incubation experiments, in order to constrain the correlation between CO2 respiration rates and soil moisture. This relationship is used to parameterize a simple mixing model which predicts the relationship between δ13C and soil moisture in fluids infiltrating into the underlying cave system.">
+  <meta name="description" content="Soil microorganisms are known to survive periods of aridity and to recover rapidly after wetting events, with the ability to transition between a dormant state in dry conditions and an active state in wet conditions. Though this dynamic behavior has been previously incorporated into soil carbon respiration modeling frameworks, a direct comparison between this active‐dormant transition mechanism and a more simplified first‐order model has yet to be made. Here, we demonstrate the necessary extent of model complexity needed to reproduce transient carbon respiration rates obtained from a set of soil incubation experiments implemented over a range of soil depths and time intervals. Two approaches are tested, one uses simplified first‐order kinetics, whereas the other employs a transition between active and dormant biomass. The performance of each model is evaluated using an Akaike Information Criterion (AIC) based on the accuracy with which they reproduce an experimental dataset consisting of two sets of time series soil incubations collected across a range of time and depth resolutions. Based on the AIC evaluation and model‐data comparison, we conclude that a dormancy‐enabled model featuring two distinct microbial strategists performs best for the majority of the soil profile (above 108 cm) for both high and low depth resolution and sampling frequency, despite the added parameters required. In contrast, the first‐order model achieves better AIC scores when simulating our deepest soils (112–165 cm), where moisture fluctuations are expected to be less prevalent. These results guide how and where we choose to apply more cost intensive models.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://two2cold.github.io/publication/liu-et-al.-acta.-geochimica/">
+  <link rel="alternate" hreflang="en-us" href="https://two2cold.github.io/publication/liu-et-al.-jgr-b-2019/">
 
   
 
@@ -92,7 +92,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://two2cold.github.io/publication/liu-et-al.-acta.-geochimica/">
+  <link rel="canonical" href="https://two2cold.github.io/publication/liu-et-al.-jgr-b-2019/">
 
   
   
@@ -104,21 +104,21 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Yuchen Liu">
-  <meta property="og:url" content="https://two2cold.github.io/publication/liu-et-al.-acta.-geochimica/">
-  <meta property="og:title" content="The hydrologic record of karst systems: linking soil moisture to the carbon isotope signatures of soils above the Blue Spring cave system | Yuchen Liu">
-  <meta property="og:description" content="Speleothem carbonates are precipitated continuously from inorganic carbon dissolved in seepage water infiltrating from the land surface, that reflects a mixture of atmospheric CO2, respired soil carbon, and epikarst sources, each with distinct δ13C values. To aid in deconvolving these signatures, soil samples were collected above the Blue Spring cave system in Sparta, Tennessee, USA and subjected to a series of incubation experiments, in order to constrain the correlation between CO2 respiration rates and soil moisture. This relationship is used to parameterize a simple mixing model which predicts the relationship between δ13C and soil moisture in fluids infiltrating into the underlying cave system."><meta property="og:image" content="https://two2cold.github.io/img/head.jpg">
+  <meta property="og:url" content="https://two2cold.github.io/publication/liu-et-al.-jgr-b-2019/">
+  <meta property="og:title" content="Modeling transient soil moisture limitations on microbial carbon respiration | Yuchen Liu">
+  <meta property="og:description" content="Soil microorganisms are known to survive periods of aridity and to recover rapidly after wetting events, with the ability to transition between a dormant state in dry conditions and an active state in wet conditions. Though this dynamic behavior has been previously incorporated into soil carbon respiration modeling frameworks, a direct comparison between this active‐dormant transition mechanism and a more simplified first‐order model has yet to be made. Here, we demonstrate the necessary extent of model complexity needed to reproduce transient carbon respiration rates obtained from a set of soil incubation experiments implemented over a range of soil depths and time intervals. Two approaches are tested, one uses simplified first‐order kinetics, whereas the other employs a transition between active and dormant biomass. The performance of each model is evaluated using an Akaike Information Criterion (AIC) based on the accuracy with which they reproduce an experimental dataset consisting of two sets of time series soil incubations collected across a range of time and depth resolutions. Based on the AIC evaluation and model‐data comparison, we conclude that a dormancy‐enabled model featuring two distinct microbial strategists performs best for the majority of the soil profile (above 108 cm) for both high and low depth resolution and sampling frequency, despite the added parameters required. In contrast, the first‐order model achieves better AIC scores when simulating our deepest soils (112–165 cm), where moisture fluctuations are expected to be less prevalent. These results guide how and where we choose to apply more cost intensive models."><meta property="og:image" content="https://two2cold.github.io/img/head.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-09-01T00:00:00-05:00">
+  <meta property="article:published_time" content="2019-06-13T00:00:00-05:00">
   
-  <meta property="article:modified_time" content="2017-09-01T00:00:00-05:00">
-  
-
+  <meta property="article:modified_time" content="2019-06-13T00:00:00-05:00">
   
 
   
 
-  <title>The hydrologic record of karst systems: linking soil moisture to the carbon isotope signatures of soils above the Blue Spring cave system | Yuchen Liu</title>
+  
+
+  <title>Modeling transient soil moisture limitations on microbial carbon respiration | Yuchen Liu</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -276,7 +276,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">The hydrologic record of karst systems: linking soil moisture to the carbon isotope signatures of soils above the Blue Spring cave system</h1>
+  <h1 itemprop="name">Modeling transient soil moisture limitations on microbial carbon respiration</h1>
 
   
 
@@ -293,7 +293,16 @@
       <span itemprop="name">Y Liu</span>
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">JL Oster</span>
+      <span itemprop="name">C Lawrence</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">M Winnick</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">H-T Hsu</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">K Maher</span>
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">JL Druhan</span>
@@ -304,9 +313,9 @@
 
   <span class="article-date">
     
-    <meta content="2017-09-01 00:00:00 -0500 CDT" itemprop="datePublished">
-    <time datetime="2017-09-01 00:00:00 -0500 CDT" itemprop="dateModified">
-      Sep 1, 2017
+    <meta content="2019-06-13 00:00:00 -0500 CDT" itemprop="datePublished">
+    <time datetime="2019-06-13 00:00:00 -0500 CDT" itemprop="dateModified">
+      Jun 13, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -326,35 +335,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=The%20hydrologic%20record%20of%20karst%20systems%3a%20linking%20soil%20moisture%20to%20the%20carbon%20isotope%20signatures%20of%20soils%20above%20the%20Blue%20Spring%20cave%20system&amp;url=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-acta.-geochimica%2f"
+         href="https://twitter.com/intent/tweet?text=Modeling%20transient%20soil%20moisture%20limitations%20on%20microbial%20carbon%20respiration&amp;url=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-jgr-b-2019%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-acta.-geochimica%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-jgr-b-2019%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-acta.-geochimica%2f&amp;title=The%20hydrologic%20record%20of%20karst%20systems%3a%20linking%20soil%20moisture%20to%20the%20carbon%20isotope%20signatures%20of%20soils%20above%20the%20Blue%20Spring%20cave%20system"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-jgr-b-2019%2f&amp;title=Modeling%20transient%20soil%20moisture%20limitations%20on%20microbial%20carbon%20respiration"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-acta.-geochimica%2f&amp;title=The%20hydrologic%20record%20of%20karst%20systems%3a%20linking%20soil%20moisture%20to%20the%20carbon%20isotope%20signatures%20of%20soils%20above%20the%20Blue%20Spring%20cave%20system"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-jgr-b-2019%2f&amp;title=Modeling%20transient%20soil%20moisture%20limitations%20on%20microbial%20carbon%20respiration"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=The%20hydrologic%20record%20of%20karst%20systems%3a%20linking%20soil%20moisture%20to%20the%20carbon%20isotope%20signatures%20of%20soils%20above%20the%20Blue%20Spring%20cave%20system&amp;body=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-acta.-geochimica%2f">
+         href="mailto:?subject=Modeling%20transient%20soil%20moisture%20limitations%20on%20microbial%20carbon%20respiration&amp;body=https%3a%2f%2ftwo2cold.github.io%2fpublication%2fliu-et-al.-jgr-b-2019%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -398,7 +407,7 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://link.springer.com/article/10.1007/s11631-017-0171-5" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JG004628" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -416,7 +425,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1007/s11631-017-0171-5" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1029/2018JG004628" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -434,7 +443,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Speleothem carbonates are precipitated continuously from inorganic carbon dissolved in seepage water infiltrating from the land surface, that reflects a mixture of atmospheric CO2, respired soil carbon, and epikarst sources, each with distinct δ13C values. To aid in deconvolving these signatures, soil samples were collected above the Blue Spring cave system in Sparta, Tennessee, USA and subjected to a series of incubation experiments, in order to constrain the correlation between CO2 respiration rates and soil moisture. This relationship is used to parameterize a simple mixing model which predicts the relationship between δ13C and soil moisture in fluids infiltrating into the underlying cave system.</p>
+    <p class="pub-abstract" itemprop="text">Soil microorganisms are known to survive periods of aridity and to recover rapidly after wetting events, with the ability to transition between a dormant state in dry conditions and an active state in wet conditions. Though this dynamic behavior has been previously incorporated into soil carbon respiration modeling frameworks, a direct comparison between this active‐dormant transition mechanism and a more simplified first‐order model has yet to be made. Here, we demonstrate the necessary extent of model complexity needed to reproduce transient carbon respiration rates obtained from a set of soil incubation experiments implemented over a range of soil depths and time intervals. Two approaches are tested, one uses simplified first‐order kinetics, whereas the other employs a transition between active and dormant biomass. The performance of each model is evaluated using an Akaike Information Criterion (AIC) based on the accuracy with which they reproduce an experimental dataset consisting of two sets of time series soil incubations collected across a range of time and depth resolutions. Based on the AIC evaluation and model‐data comparison, we conclude that a dormancy‐enabled model featuring two distinct microbial strategists performs best for the majority of the soil profile (above 108 cm) for both high and low depth resolution and sampling frequency, despite the added parameters required. In contrast, the first‐order model achieves better AIC scores when simulating our deepest soils (112–165 cm), where moisture fluctuations are expected to be less prevalent. These results guide how and where we choose to apply more cost intensive models.</p>
     
 
     
@@ -445,8 +454,8 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -463,7 +472,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Acta Geochimica</em></div>
+          <div class="col-12 col-md-9">In <em>Journal of Geophysical Research - Biogeosciences</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -477,7 +486,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            September, 2017
+            June, 2019
           </div>
         </div>
       </div>
